@@ -1,4 +1,4 @@
-# Machine-Learning-and-DataScience-with-Python
+# Machine-Learning-with-Python
 
 Here You will Learn :
 
