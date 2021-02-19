@@ -2,11 +2,10 @@
 
 Here You will Learn :
 
-1.Basic of Python to Advanced Level of Python.
-
-2. Machine learning algorithms like Supervised or Unsupervised machine learning
-3. Linear and Logistic Regression
-4. Support Vector Machine(SVM)
-
-
-6. Random Forest(RF)
+# 1.Basic of Python to Advanced Level of Python.
+  1. Basic functions
+  2. Loops
+  3. Syntex
+# 2. Linear and Logistic Regression
+# 3. Support Vector Machine(SVM)	
+# 4. Random Forest(RF)
