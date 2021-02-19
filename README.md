@@ -7,4 +7,6 @@ Here You will Learn :
 2. Machine learning algorithms like Supervised or Unsupervised machine learning
 3. Linear and Logistic Regression
 4. Support Vector Machine(SVM)
-5. Random Forest(RF)
+
+
+6. Random Forest(RF)
