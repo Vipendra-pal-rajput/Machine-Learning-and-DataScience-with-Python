@@ -1,5 +1,3 @@
-# Machine-Learning-with-Python
-
 Here You will Learn :
 
 # 1.Basic of Python to Advanced Level of Python.
