@@ -1,4 +1,4 @@
-Here You will Learn :
+Here We will Learn :
 
 # 1.Basic of Python to Advanced Level of Python.
   1. Basic functions
